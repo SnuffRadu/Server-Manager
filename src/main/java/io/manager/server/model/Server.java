@@ -8,6 +8,10 @@ import lombok.NoArgsConstructor;
 import javax.persistence.*;
 import javax.validation.constraints.NotEmpty;
 
+/**
+ * Server definition class.
+ */
+
 @Entity
 @Data
 @NoArgsConstructor
